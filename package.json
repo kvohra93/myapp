@@ -1,6 +1,7 @@
 {
   "name": "myapp",
-  "version": "0.0.0",
+  "version": "0.2.0",
+  "description": "Boilerplate express app with some customization",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -12,5 +13,14 @@
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "morgan": "~1.9.1"
-  }
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/kvohra93/myapp"
+  },
+  "author": "Kunal Vohra"
 }
+
+
+
+
